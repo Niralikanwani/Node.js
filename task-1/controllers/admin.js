@@ -1,6 +1,5 @@
 const Employee = require('../models/employee');
 const Department = require('../models/department');
-const department = require('../models/department');
 
 const ITEMS_PER_PAGE = 5;
 
